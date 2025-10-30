@@ -13,6 +13,3 @@ It includes multimodal, vision, and text-based applications powered by the **Gem
 ### 📂 Structure
 Each script or notebook demonstrates a unique use case of Gemini AI for learning, prototyping, and experimentation.
 
----
-
->  Created and maintained by **Idrees Ahmad (IdreesAh809)** — exploring the power of Gemini and LangChain.
